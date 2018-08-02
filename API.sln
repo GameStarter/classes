@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{C77DB2D8-E322-438A-9A7B-3667A42E9ACE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structure", "API\structure.csproj", "{C77DB2D8-E322-438A-9A7B-3667A42E9ACE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
